@@ -23,6 +23,7 @@ A list of research questions you would like to address during the project.
 List the dataset(s) you want to use, and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you've read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible given the datasets at hand.
 - Yahoo historical service Data, S&P500 financial market from end 2017 to march 2020: https://query1.finance.yahoo.com/v7/finance/download/%5EGSPC?period1=1513728000&period2=1584780625&interval=1d&events=history
 - Same data until end of November to use Covid-19 period: https://query1.finance.yahoo.com/v7/finance/download/%5EGSPC?period1=1606159501&period2=1584780625&interval=1d&events=history
+- Google Trends keywords research inspiration: https://www.nature.com/articles/srep01684
 
 
 ## Methods
