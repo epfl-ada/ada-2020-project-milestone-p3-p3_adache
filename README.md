@@ -11,7 +11,7 @@ Although the paper explains the advantage of using Google Trends and introduce i
 ## Research question
 A list of research questions you would like to address during the project.
 
-- Wich Google Trends key-words should we use in our model
+- Which Google Trends key-words should we use in our model
 - Which models should we explore?
 
 ## Proposed dataset
