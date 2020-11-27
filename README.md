@@ -12,7 +12,7 @@ Then, Google Trends data will be introduced to improve these predictions. A Goog
 
 ## Research question
 <!---A list of research questions you would like to address during the project. --->
-1. What is the best model to predict the near term price movement of S&P 500 ?
+1. What are the best models to predict the near term price movement of stock markets, more specifically the S&P500 index ?
 2. Can we improve our predictions using Google Trends? If yes, to what extent ? 
 3. Which Google Trends keywords are most relevant in explaining stock market price variations and why ?
 
