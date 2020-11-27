@@ -10,7 +10,7 @@ The original paper explains how Google Trends are helpful in improving forecasts
 Then, Google Trends data will be introduced to improve these predictions. A Google Trends keywords selection will be performed beforehand to keep the most relevant ones for each study case.  At the end, we'll have the possibility to test our models in predicting the stock prices of a few big companies. Examples can include Microsoft, Amazon, and Apple. 
 
 
-## Research question
+## Research questions
 <!---A list of research questions you would like to address during the project. --->
 1. What are the best models to predict the near term price movement of stock markets, more specifically the S&P500 index ?
 2. Can we improve our predictions using Google Trends? If yes, to what extent ? 
@@ -74,6 +74,6 @@ Once we have obtained the best individual search topics, we will try to combine 
 ## Questions for TAs
 <!---Add here any questions you have for us related to the proposed project. --->
 Any doubts or suggestions?<br>
-We're also considered finding better model than the ARIMA in the original paper, is this worth considering ? Or it is better to focus on only one improvement (as proposed applying to other dataset)?
+We're thinking of finding a better model than the ARIMA in the original paper, e.g. neural networks, is this worth considering ? 
 
 
