@@ -1,4 +1,4 @@
-P3 info : (https://docs.google.com/document/d/1PHv1wcScfFz1zF9nuzbhlF89lH-I2x1d-QoUmJZrSFc/edit)
+<!--- P3 info : (https://docs.google.com/document/d/1PHv1wcScfFz1zF9nuzbhlF89lH-I2x1d-QoUmJZrSFc/edit) --->
 
 # Predicting the Stock Market using Google Trends
 
