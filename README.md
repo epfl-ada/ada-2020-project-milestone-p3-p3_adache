@@ -29,7 +29,7 @@ Then, Google Trends data will be introduced to improve these predictions. A Goog
 [Yahoo Finance](https://finance.yahoo.com/lookup) Historical Data service can give us the financial market data we are looking for. We're planning to use the following dataset :
 - [S&P500](https://query1.finance.yahoo.com/v7/finance/download/%5EGSPC?period1=1388534400&period2=1606435200&interval=1d&events=history&includeAdjustedClose=true) index, from the beginning of 2004 to today  
   
-The following datasets will be possibly included for further analysis, all for the period of the beginning of 2004 to today : 
+The following datasets will be possibly included for further analysis, all for the period from the beginning of 2004 to today : 
   - [Amazon](https://query1.finance.yahoo.com/v7/finance/download/AMZN?period1=1388534400&period2=1606435200&interval=1d&events=history&includeAdjustedClose=true) stock
   - [Microsoft](https://query1.finance.yahoo.com/v7/finance/download/MSFT?period1=1072915200&period2=1606435200&interval=1d&events=history&includeAdjustedClose=true) stock
   - [Apple](https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=1072915200&period2=1606435200&interval=1d&events=history&includeAdjustedClose=true) stock  
