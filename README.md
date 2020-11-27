@@ -45,7 +45,7 @@ We will also need to get the [Google Trends](https://trends.google.com/trends/?g
 We can also try to bring new keyword ideas that we might have. To illustrate this, we could use the keyword `iPhone` to improve the forecasting of the Apple stock. [Related Searches](https://support.google.com/trends/answer/4355000?hl=en#:~:text=When%20you%20search%20for%20a,the%20tab%20for%20your%20term.) tool integrated in Google Trends can be useful to this effect.  
 Since we are assessing the US financial market, we might also want to consider using Google Trends  from the US or Worldwide and evaluate the difference appearing.<br>
 
-**Model evaluation:** To make our predictions, we'll test and evaluate different parameters of an autoregressive model based on a moving window. Then, we'll try to improve these predictions using Google Trends data. In order to do so, we will explore different regression models including Linear Regression and Gradient Boosting Regression. 
+**Model evaluation:** To make our predictions, we'll test and evaluate different parameters of an ARIMA model based on a moving window. Then, we'll try to improve these predictions using Google Trends data. In order to do so, we will explore different regression models including Linear Regression and Gradient Boosting Regression. 
 
 **Data analysis:** We are interested in the improvement of prediction using Google Trends. Also, it is interesting to see which are the most relevant Google Trends topics. Based on this we can see which are the search terms that seem to be most correlated with financial markets. <br>
 Once we have obtained the best individual search topics, we will try to combine them to see if we can improve the predictions.
