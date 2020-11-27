@@ -29,16 +29,16 @@ Note: we will use the adjusted closing value for the stock markets in the datase
 - We will also need to get the [Google Trends](https://trends.google.com/trends/?geo=US) data from the website for each search term we want to investigate.
 
 ## Methods
-**Data collection:** we will need to merge the dataset from the financial market and the google trends we decided to explore. The merging requires a little bit of attention because there aren't stock values for each day in the period due to the closing of stock markets at the weekend. We just have to make sure to properly handle this.
-**Improving the model:** we will need to investigate the best model to use for the example in the original paper. Trying to use various models combining past stock market values and present google search terms. Then evaluate with some metrics like in the paper (MAE for example), if we have better results.
-**Finding the search terms:** We can make usage of previous work on the subject where some Google research terms were proposed [Google Trends keywords research inspiration](https://www.nature.com/articles/srep01684) and also bring some ideas that we might have. Especially considering the second dataset with the covid-19 crisis, where some research terms might differ from a normal period. Since we are using the US financial market, we might also want to consider using Google Trends only from the US or Worldwide and evaluate the difference appearing.
+**Data collection:** we will need to merge the dataset from the financial market and the google trends we decided to explore. The merging requires a little bit of attention because there aren't stock values for each day in the period due to the closing of stock markets at the weekend. We just have to make sure to properly handle this.<br>
+**Improving the model:** we will need to investigate the best model to use for the example in the original paper. Trying to use various models combining past stock market values and present google search terms. Then evaluate with some metrics like in the paper (MAE for example), if we have better results.<br>
+**Finding the search terms:** We can make usage of previous work on the subject where some Google research terms were proposed [Google Trends keywords research inspiration](https://www.nature.com/articles/srep01684) and also bring some ideas that we might have. Especially considering the second dataset with the covid-19 crisis, where some research terms might differ from a normal period. Since we are using the US financial market, we might also want to consider using Google Trends only from the US or Worldwide and evaluate the difference appearing.<br>
 **Data analysis:**
-We are interested in the improvement of prediction using Google Trends. Also, it is interesting to like which are the most relevant Google Trends topics. Based on this we can see which are the search terms that seem to be correlated with financial markets. (Are there obvious or unexpected terms?)
+We are interested in the improvement of prediction using Google Trends. Also, it is interesting to like which are the most relevant Google Trends topics. Based on this we can see which are the search terms that seem to be correlated with financial markets. (Are there obvious or unexpected terms?)<br>
 
 ## Proposed timeline
-**Week 1:** Improve the baseline models and getting started with the new data (downloading, cleaning, and merging).
-**Week 2:** Apply the model to the new data and start the analysis of the best search terms.
-**Week 3:** Finalize the analysis, preparing the data story, report, and short video.
+**Week 1:** Improve the baseline models and getting started with the new data (downloading, cleaning, and merging).<br>
+**Week 2:** Apply the model to the new data and start the analysis of the best search terms.<br>
+**Week 3:** Finalize the analysis, preparing the data story, report, and short video.<br>
 
 <!--- - December 1st: We have decided which Google Trends key-words we want to use in our model and have imported it. That is, which words are the most related to the finance market and are the most likely to bring information and have an impact on our model's prediction.
 - December 5th: Google Trend data and Finance data are imported and cleaned. Our data is ready to be used.
