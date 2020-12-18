@@ -73,7 +73,7 @@ Once we have obtained the best individual search topics, we will try to combine 
 Any doubts or suggestions?<br>
 We're thinking of finding a better model than the ARIMA in the original paper, e.g. neural networks, is this worth considering ? 
 
-## Contributions
-Jeanne:
-Fatih:
+## Contributions 
+Jeanne:  
+Fatih: Wrangling data from Google Trends, Exploratory Data Analysis, and creating visual elements.  
 Etienne: Creating, filling and deploying the data story. Created interactive plots from the original static ones. 
