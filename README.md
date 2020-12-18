@@ -74,6 +74,6 @@ Any doubts or suggestions?<br>
 We're thinking of finding a better model than the ARIMA in the original paper, e.g. neural networks, is this worth considering ? 
 
 ## Contributions 
-Jeanne:  
+Jeanne: Feature selection, hyper-parameter tuning for training window size, model implementation and results display  
 Fatih: Wrangling data from Google Trends, Exploratory Data Analysis, and creating visual elements.  
 Etienne: Creating, filling and deploying the data story. Created interactive plots from the original static ones. 
