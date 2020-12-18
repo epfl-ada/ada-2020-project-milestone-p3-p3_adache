@@ -68,12 +68,12 @@ Once we have obtained the best individual search topics, we will try to combine 
 - On week 3, Jeanne will focus on writing the data story and have some nice visualization to illustrate the finding.
 - On week 3, Etienne will focus on preparing the short video while Fatih writes the report. As the three of us might need some visualization for our tasks, we will probably work together to define the illustrations we want to use.
 
-
-
-
 ## Questions for TAs
 <!---Add here any questions you have for us related to the proposed project. --->
 Any doubts or suggestions?<br>
 We're thinking of finding a better model than the ARIMA in the original paper, e.g. neural networks, is this worth considering ? 
 
-
+## Contributions
+Jeanne:
+Fatih:
+Etienne: Creating, filling and deploying the data story. Created interactive plots from the original static ones. 
